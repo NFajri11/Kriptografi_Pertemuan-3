@@ -15,7 +15,7 @@
 # Jika gagal :
 ![Gagal](https://github.com/NFajri11/Kriptografi_Pertemuan-3/assets/92937310/e0886023-2d23-40e9-b53a-bce708c264f4)
 
-# berikut penjelasan singkat tentang sistem login dengan enkripsi Vigenère Cipher yang telah saya implementasikan:
+## berikut penjelasan singkat tentang sistem login dengan enkripsi Vigenère Cipher yang telah saya implementasikan:
 
 - Fungsi generate_vigenere_table()
 - Fungsi ini digunakan untuk membuat tabel Vigenère Cipher, yang merupakan tabel pergeseran alfabet berdasarkan kunci.
